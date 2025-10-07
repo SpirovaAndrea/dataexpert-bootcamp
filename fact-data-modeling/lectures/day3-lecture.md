@@ -66,9 +66,4 @@
 
 ---
 
-## Lecturer Anecdote
 
-- The lecturer shared a real-world story:  
-  - Built a framework for **50 core metrics and 15 core dimensions**.  
-  - Enabled **10+ year analysis** to happen in hours instead of weeks.  
-  - Despite the impact, they were told this wasn’t considered “senior engineer caliber.”
